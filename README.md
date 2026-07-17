@@ -49,14 +49,11 @@ This project explores a dataset using Python and Pandas to identify patterns, tr
 - README.md
 - requirements.txt
 
----
 
-## 🔒 Dataset Notice
 
-The dataset used in this project was provided as part of an internship exercise and is not included in this public repository.
 
 ---
 
 ## 👩‍💻 Author
 
-**Pamela**
+**Folahan Promise**
